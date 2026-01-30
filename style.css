@@ -26,7 +26,7 @@ h1, h2, h3 {
 /* PARALLAX HERO */
 .hero {
   height: 50vh;
-  background-image: url("images/my\ selfie.jpg");
+  background-color: black;
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* PARALLAX EFFECT */
@@ -34,7 +34,7 @@ h1, h2, h3 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: rgb(18, 18, 18);
+  color: rgb(240, 236, 236);
   text-align: center;
 }
 
